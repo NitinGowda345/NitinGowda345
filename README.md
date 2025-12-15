@@ -17,14 +17,11 @@ I enjoy building RESTful APIs using Spring Boot and writing clean, maintainable 
 ---
 
 ## 📂 Featured Projects
-### ➤ College Management System  
-Java | Spring Boot | MySQL  
+### ➤ Employee PayRoll System  
+Java | OOPs 
 Backend project with CRUD operations for students, departments, and courses.
 
-### ➤ Employee Management System  
-REST API with validation, pagination, sorting, and exception handling.
-
-### ➤ Student Management App (JDBC)  
+### ➤ Hotel Reservation System(JDBC)  
 Core Java + JDBC CRUD application connected to MySQL.
 
 ---
